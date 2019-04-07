@@ -1,9 +1,16 @@
 package Arrays;
 
 public class Array1 {
+	
+	public String name = "anjali";
+	
+	public void test1()
+	{
+		
+		
+	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		String[] str = new String [4];
 		
@@ -28,7 +35,19 @@ public class Array1 {
 			System.out.println(s);
 		}
 		
+		
+		
 
+	}
+	
+	public static Array1 fun() 
+	{
+		Array1 obj =new Array1();
+		
+		return obj;
+		
+		
+		
 	}
 
 }

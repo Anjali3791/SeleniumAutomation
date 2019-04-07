@@ -17,7 +17,17 @@ public class ReverseIntArray {
 			System.out.print(arr[i]+" ");
 		}
 		
-	
+	//To print alternate elements in an array
+		
+//		int[] arr1 = new int [10];
+//		
+//		System.out.println("Original Array : ");
+//		for (int i=0; i<=10; i++) {
+//			arr[]
+//			System.out.println(arr1[i]+" ");
+//			
+		}
+		
 	}
 
-}
+

@@ -12,8 +12,8 @@ public class User {
 		
 		
 		
-		Telephone p = new Telephone();
-		p.calling();
+//		Telephone p = new Telephone();
+//		p.calling();
 		
 		
 		
