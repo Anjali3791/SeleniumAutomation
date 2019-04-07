@@ -8,6 +8,7 @@ public class Testing
 	public void test()
 	{
 		System.out.println("Anjali");
+		System.out.println("Learning Maven 2");
 	}
 
 }
